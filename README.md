@@ -2,11 +2,6 @@
 </p>
 <h1 align="center">Hello My name is Kamal Malaviya</h1>
 <br />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MalaviyaKamal&label=Profile%20views&color=129e00&style=plastic" alt="Kamal Malaviya" /> </p>
-
-
-
-<br />
 &nbsp;
 
 
@@ -14,15 +9,13 @@
 <h2 align="left"> Connect with me: </h2>
 <p align="left">
 
-<a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Kamal Malaviya" height="30" width="30"/> </a>
+<a href="https://twitter.com/kamalmalaviya" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Kamal Malaviya" height="30" width="30"/> </a>
 &nbsp;
 <a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Kamal Malaviya" height="30" width="30"/> </a>
 &nbsp;
-<a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Kamal Malaviya" height="30" width="30"/> </a>
+<a href="https://www.instagram.com/kamalmalaviya/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Kamal Malaviya" height="30" width="30"/> </a>
 &nbsp;
 <a href="https://github.com/MalaviyaKamal" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Kamal Malaviya" height="30" width="30"/> </a>
-&nbsp;
-<a href="#" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="Kamal Malaviya" height="30" width="30"/> </a>
 &nbsp;
 </p>
 
